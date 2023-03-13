@@ -1,5 +1,8 @@
-The following is a direct copy of Xavier Serrano and Alyssa Zhang's submission for our Swarthmore Computer Science class, CPSC 091s - Game Systems, taught by [Keith O'Hara](https://drablab.org/keithohara/) 
-.
+Here is a link to play our game on the TIC-80 website: [TIC-80 Link](https://tic80.com/play?cart=3253).
+
+The following is a direct copy of Xavier Serrano and Alyssa Zhang's submission for our Swarthmore Computer Science class, CPSC 091s - Game Systems, taught by [Keith O'Hara](https://drablab.org/keithohara/).
+
+
 
 # Remake
 ## Downloads
