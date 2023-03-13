@@ -1,3 +1,6 @@
+The following is a direct copy of Xavier Serrano and Alyssa Zhang's submission for our Swarthmore Computer Science class, CPSC 091s - Game Systems, taught by [Keith O'Hara](https://drablab.org/keithohara/). 
+.
+
 # Remake
 ## Downloads
 Our TIC-80 remake of the original Atari Asteroids has been attached to this GitHub repository. To play the game, install TIC-80 and run the following commands in your machine's terminal.
